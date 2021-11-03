@@ -22,7 +22,7 @@ Build
 Build.bat
 
 # Module::Install
-inc/
+
 
 # ExtUtils::MakeMaker
 /blib/
